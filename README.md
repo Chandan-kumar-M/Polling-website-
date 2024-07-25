@@ -1,2 +1,2 @@
-# Polling-website-
-Polling Website Using Django Framework
+# DjangoPollTutorial
+Complete source code to polls app with django
